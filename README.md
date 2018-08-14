@@ -1,4 +1,4 @@
 # devops-aula2
-Ramon Valdez
-keano Reeves
-Wentworth Miller
+# Ramon Valdez
+# keano Reeves
+# Wentworth Miller
